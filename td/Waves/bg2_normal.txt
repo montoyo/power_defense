@@ -1,0 +1,14 @@
+2*simple
+1*simple,2*fast
+4*simple,1*fast
+2*shielded
+2*simple,1*aircraft
+1*shielded,1*multiair,1*simple,2*fast
+3*fast,1*multiair
+4*fast,2*aircraft
+3*simple,3*aircraft
+7*fast,1*multiair
+3*shielded,5*simple
+5*aircraft,3*fast
+10*shielded
+1*staline
